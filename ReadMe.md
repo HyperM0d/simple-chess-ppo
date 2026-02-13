@@ -38,3 +38,8 @@ self_play(agent, num_games=100)
 
 results = evaluate(agent, num_games=20)
 ```
+
+## TODO
+- [ ] Model saving
+- [ ] Model loading
+- [ ] Model training
